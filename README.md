@@ -34,7 +34,7 @@ B. Create a Bash Script for login function with following requirements:
   
     => Silahkan jalankan file login.sh untuk melihat hasil program 
       
-      notes: Silahkan input username : qa & password : engineer untuk menampilkan “Login success”, diluar dari itu akan menampilkan “Login failed”
+      notes: Silahkan input username : qa & password : engineer untuk menampilkan “Login success”, diluar dari itu akan menampilkan “Login failed”.
 
 C. Explain briefly between test suite, test case, and test step!
 
