@@ -10,6 +10,7 @@ A. Populix UI Automation Test
   4. Convert all possible test cases into automation test using python & selenium.
   5. Push your code into your Github. Don’t forget to add how to setup/run on readme.md
     => jawaban berada pada file login_TestCaseAutomation.py
+
      Notes: silahkan download folder terlebih dahulu untuk menjalankan testcase, silahkan ikuti langkah dibawah ini  (for windows) :
     1. Download dan Install python terlebih dahulu (apabila belum ada) => https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe    
     2. Install Selenium (apabila belum ada) 
