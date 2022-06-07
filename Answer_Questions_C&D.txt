@@ -1,0 +1,21 @@
+C. Explain briefly between test suite, test case, and test step!
+    - Test Suite merupakan rangkaian test yang memungkinkan kita dapat menggabungkan test case untuk menciptakan kondisi pengujian yang unik. misalnya, 
+    menyerukan tester untuk menjalankan test case 2 dan 3 secara paralel (penegelompokan test), yang dapat menyebabkan situasi yang tidak dapat diproduksi oleh case test sendiri.
+
+    - Test Case, dalam Software testing Test Case dapat disebut suatu rancangan atau rangkaian mengenai tindakan yang dilakukan oleh seorang user (software tester) untuk 
+    melakukan verifikasi terhadap fitur-fitur atau fungsi-fungsi tertentu dari sebuah sistem atau aplikasi, dimana Test Case mengacu pada dokumen yang berisi langkah-langkah
+    yang harus dijalankan untuk menguji fungsi tertentu atau aspek spesifik apa pun dari sistem atau aplikasi yang dikembangkan. dari Test Case ini dapat mengetahui apakah semua 
+    kebutuhan benar-benar sudah terpenuhi secara keseluruhan atau hanya sebagian saja setelah dilakukanya proses pengujian. 
+
+    - Test Step merupakan bagian penyusun dari sebuah Test Case, Test Step sendiri merupakan langkah-langkah yang dilakukan untuk melakukan pengujian terhadap Test Case. 
+
+
+D. What's the difference between regression test and non-regression test?
+    - Regression test merupakan jenis pengujian yang dilakukan untuk memverifikasi bahwa perubahan kode pada software tidak memengaruhi fungsionalitasnya sebagai produk. 
+    Regression testing akan memastikan produk berfungsi dengan baik sesuai dengan fungsionalitas baru yang dipasang, perbaikan bug, atau perubahan-perubahan fitur yang ada (sedetail mungkin)
+    Misalnya, Jikalau ditengah regression ditemukan bugs, kemudian dilakukan bug fixing, maka kita harus mengulang eksekusi skenario test secara keseluruhan, dalam artian setiap ada perubahan
+    harus melakukan testing ulang secara keseluruhan.
+
+    - Non-regression test dapat diartikan sebagai jenis pengujian yang dilakukan untuk memverifikasi apakah fungsionalitas baru atau yang dimodifikasi beroperasi dengan benar dengan mengasumsiskan bahwa 
+     fungsionalitas sebelumnya tidak terpengaruh, sehingga tidak melakukan scenario test secara keseluruhan (hanya melakukan test pada fitur yang baru ditambahkan).
+     Misalnya, ketika ada penambahan sebuah fitur pada sebuah sistem atau aplikasi maka yang akan diutamakan untuk di test adalah fitur baru tersebut.
