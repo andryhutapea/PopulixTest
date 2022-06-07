@@ -38,9 +38,10 @@ B. Create a Bash Script for login function with following requirements:
 
 C. Explain briefly between test suite, test case, and test step!
 
-    => jawaban berada pada File answers_Questions_C&D
+    => jawaban berada pada File answers_Questions_C&D.txt
    
 
 D. What's the difference between regression test and non-regression test?
 
-    => jawaban berada pada File answers_Questions_C&D
+    => jawaban berada pada File answers_Questions_C&D.txt
+    
