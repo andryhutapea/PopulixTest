@@ -31,8 +31,8 @@ B. Create a Bash Script for login function with following requirements:
   2. Valid username & password: qa & engineer
   3. Print “Login success” if inputted username & password True, print “Login failed” otherwise
   4. Name it with login.sh
-
-      => Silahkan jalankan file login.sh untuk melihat hasil program 
+  
+    => Silahkan jalankan file login.sh untuk melihat hasil program 
       
       notes: Silahkan input username : qa & password : engineer untuk menampilkan “Login success”, diluar dari itu akan menampilkan “Login failed”
 
