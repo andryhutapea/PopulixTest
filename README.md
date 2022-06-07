@@ -5,10 +5,12 @@ Answer Populix Test
 A. Populix UI Automation Test
   1. Visit https://www.populix.co/login
   2. Make all possible test case for this page
+
      => jawaban berada pada file login_TestCase.xlsx
 
   4. Convert all possible test cases into automation test using python & selenium.
   5. Push your code into your Github. Don’t forget to add how to setup/run on readme.md
+
     => jawaban berada pada file login_TestCaseAutomation.py
 
      Notes: silahkan download folder terlebih dahulu untuk menjalankan testcase, silahkan ikuti langkah dibawah ini  (for windows) :
@@ -35,8 +37,10 @@ B. Create a Bash Script for login function with following requirements:
       notes: Silahkan input username : qa & password : engineer untuk menampilkan “Login success”, diluar dari itu akan menampilkan “Login failed”
 
 C. Explain briefly between test suite, test case, and test step!
+
     => jawaban berada pada File answers_Questions_C&D
    
 
 D. What's the difference between regression test and non-regression test?
+
     => jawaban berada pada File answers_Questions_C&D
