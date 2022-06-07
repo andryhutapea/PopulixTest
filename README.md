@@ -12,6 +12,7 @@ A. Populix UI Automation Test
     => jawaban berada pada file login_TestCaseAutomation.py
 
      Notes: silahkan download folder terlebih dahulu untuk menjalankan testcase, silahkan ikuti langkah dibawah ini  (for windows) :
+
     1. Download dan Install python terlebih dahulu (apabila belum ada) => https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe    
     2. Install Selenium (apabila belum ada) 
         => pip install selenium
@@ -35,5 +36,7 @@ B. Create a Bash Script for login function with following requirements:
 
 C. Explain briefly between test suite, test case, and test step!
     => jawaban berada pada File answers_Questions_C&D
+   
+
 D. What's the difference between regression test and non-regression test?
     => jawaban berada pada File answers_Questions_C&D
