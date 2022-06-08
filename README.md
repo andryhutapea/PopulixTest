@@ -45,4 +45,4 @@ D. What's the difference between regression test and non-regression test?
 
     => jawaban berada pada File answer_Questions_C&D.txt
     
-Mohon download file secara keseluruhan untuk menghindari kesalahan code (.ZIP)
+Penting : Mohon download file secara keseluruhan dan letakkan di directory C:/ untuk menghindari kesalahan code (.ZIP)
