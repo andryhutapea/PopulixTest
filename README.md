@@ -19,7 +19,7 @@ A. Populix UI Automation Test
     2. Install Selenium (apabila belum ada) 
         => pip install selenium
     3. Download dan Install driver browser berdasarkan versi browser yang digunakan, (dalam program ini saya menggunakan driver Chrome Version 102.0.5005.63, driver terlampir pada project),
-    4. tambahkan path penyimpanan driver ke  environtmenth variable bagian path (sesuai dengan path directori anda, example : C:\tanamduit\python\Populix\DriverChrome)
+    4. Tambahkan path penyimpanan driver ke environtmenth variable bagian path (sesuaikan dengan path directori anda, example: C:\PopulixTest\DriverChrome)
     5. kita juga bisa install web Driver, agar tidak repot ubah path (lewatkan langkah 3 & 4 jika ingin menggunakan cara ini )
         => pip install webdriver_manager
     6. Buka project dengan menggunakan Code editor (VS Code) diharapakan sudah install extension python teslebih dahulu sebelum menjalankan project, 
