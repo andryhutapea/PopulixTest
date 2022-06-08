@@ -13,16 +13,16 @@ A. Populix UI Automation Test
 
     => jawaban berada pada file login_TestCaseAutomation.py
 
-     Notes: silahkan download folder terlebih dahulu untuk menjalankan testcase, silahkan ikuti langkah dibawah ini  (for windows) :
+     Notes: silahkan download folder terlebih dahulu untuk menjalankan testcase, silahkan ikuti langkah dibawah ini  (**only for windows**) :
 
     1. Download dan Install python terlebih dahulu (apabila belum ada) => https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe    
     2. Install Selenium (apabila belum ada) 
         => pip install selenium
-    3. Download dan Install driver browser berdasarkan versi browser yang digunakan, (dalam program ini saya menggunakan driver Chrome Version 102.0.5005.63, driver terlampir pada project),
+    3. Download dan Install driver browser berdasarkan versi browser yang digunakan, (dalam program ini saya menggunakan driver Chrome Version 102.0.5005.63, driver terlampir pada project), versi lainnya dapat dilihat pada https://chromedriver.chromium.org/downloads, sesuaikan dengan versi Chrome anda 
     4. Tambahkan path penyimpanan driver ke environtmenth variable bagian path (sesuaikan dengan path directori anda, example: C:\PopulixTest\DriverChrome)
     5. kita juga bisa install web Driver, agar tidak repot ubah path (lewatkan langkah 3 & 4 jika ingin menggunakan cara ini )
         => pip install webdriver_manager
-    6. Buka project dengan menggunakan Code editor (VS Code) diharapakan sudah install extension python teslebih dahulu sebelum menjalankan project, 
+    6. Buka project dengan menggunakan Code editor (VS Code) diharapakan sudah install extension python terlebih dahulu sebelum menjalankan project, 
     7. Run program yang ada pada file login_TestCaseAutomation.py
   
 
