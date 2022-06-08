@@ -84,7 +84,7 @@ print("back to login page")
 
 # Test Case 7
 # klik Facebook
-# script ini bertujuan untuk menguji apakah fungsi "Login dengan Facebook" berjalan atau tidak, apakah user diarahkan ke halaman login facebook setelah d klik
+# script ini bertujuan untuk menguji apakah fungsi "Login dengan Facebook" berjalan atau tidak, apakah user diarahkan ke halaman login facebook setelah di klik
 browser.find_element(By.XPATH, '//*[@id="login_facebook"]').click()
 print("go to login facebook page")
 time.sleep(4)
@@ -92,9 +92,9 @@ print("Test case 7 selesai")
 browser.get(urlLogin)
 print("back to login page")
 
-# test Case 8
+# Test Case 8
 # klik Google
-# Script ini bertujuan untuk menguji apakah fungsi "Login dengan Google" berjalan atau tidak, apakah user diarahkan ke halaman login Google setelah d klik
+# Script ini bertujuan untuk menguji apakah fungsi "Login dengan Google" berjalan atau tidak, apakah user diarahkan ke halaman login Google setelah di klik
 browser.find_element(By.XPATH, '//*[@id="login_google"]').click()
 print("go to login google page")
 time.sleep(4)
